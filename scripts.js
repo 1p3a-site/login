@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         一亩三分地车友俱乐部账号登录
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Login in account on 1point3acres.com
 // @author       VX:AmericanAutoClub
 // @match        https://www.1point3acres.com/*
